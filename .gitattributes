@@ -1,0 +1,9 @@
+*.cpp linguist-detectable=true
+*.hpp linguist-detectable=true
+*.h linguist-detectable=true
+
+*.ipynb linguist-detectable=false
+
+*.md linguist-detectable=false
+*.txt linguist-detectable=false
+*.json linguist-detectable=false
