@@ -1,7 +1,6 @@
 # 3D-Data-Processing
-Different programs implemented for the 3D Data Processing course
 
-Each homework tackles a different popular task concerning 3D Data, the first three were implemented using C++ meanwhile the last one consists in a Jupyter Notebook. In both cases, the OpenCV library has been used.
+Each homework tackles a different popular task concerning 3D Data, the first three were implemented using C++ meanwhile the last one consists in a Jupyter Notebook. In both cases, the OpenCV library has been used:
 
 -In Homework 1 a SGM Stereo Matching has been implemented. It was tested on several images, collecting the relative errors
 
