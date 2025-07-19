@@ -1,4 +1,0 @@
-*.ipynb linguist-detectable=false
-
-*.cpp linguist-detectable=true
-*.h linguist-detectable=true
